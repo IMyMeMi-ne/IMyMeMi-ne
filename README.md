@@ -11,6 +11,8 @@
 
 <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=Next.js&logoColor=white"/><img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/CSS Modules-%23000000?style=flat&logo=CSS Modules&logoColor=white"/><img src="https://img.shields.io/badge/styled-component-%23DB7093?style=flat&logo=styled-Component&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind CSS-%2306B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/ReactQuery-%23FF4154?style=flat&logo=ReactQuery&logoColor=white"/><img src="https://img.shields.io/badge/Recoil-%23357825?style=flat&logo=Recoil&logoColor=white"/>
 
 
