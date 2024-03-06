@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=70&section=header&text=Hello%20I`m%20Namhyun&fontSize=50" 
+### Hello Im Namhyun Kim :)
 
 :information_desk_person: Introduce
 
@@ -8,6 +8,8 @@
 👍 My skill
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-%1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
 
 
