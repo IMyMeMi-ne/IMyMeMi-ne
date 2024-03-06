@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=header&text=Hello%20Namhyun&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=header&text=Hello%20I`m%20Namhyun&fontSize=50" />
 
 :information_desk_person: Introduce
 
