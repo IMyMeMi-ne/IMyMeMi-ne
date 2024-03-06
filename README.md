@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/CSS Modules-%23000000?style=flat&logo=CSS Modules&logoColor=white"/><img src="https://img.shields.io/badge/styled-component-%23DB7093?style=flat&logo=styled-Component&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind CSS-%2306B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ReactQuery-%23FF4154?style=flat&logo=ReactQuery&logoColor=white"/><img src="https://img.shields.io/badge/Recoil-%23357825?style=flat&logo=Recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactQuery-%23FF4154?style=flat&logo=ReactQuery&logoColor=white"/><img src="https://img.shields.io/badge/Recoil-%230082F0?style=flat&logo=Recoil&logoColor=white"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamhyunK&layout=compact)](https://github.com/NamhyunK/github-readme-stats)
