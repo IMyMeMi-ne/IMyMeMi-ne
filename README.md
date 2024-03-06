@@ -1,7 +1,15 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=header&text=Hello%20Namhyun&fontSize=50" />
+
+:information_desk_person: Introduce
+
+프론트엔드 개발자를 꿈꾸고 있습니다.
+꿈을 이루기위해 하루하루 성장하고 있습니다.
+
+👍 My skill
+<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=60&section=header&text=Namhyun%20Github&fontSize=50" />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
