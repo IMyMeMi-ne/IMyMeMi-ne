@@ -17,7 +17,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamhyunK&layout=compact)](https://github.com/NamhyunK/github-readme-stats)
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
