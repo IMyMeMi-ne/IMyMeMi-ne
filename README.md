@@ -1,4 +1,4 @@
-### Hello Im Namhyun Kim :)
+### Hello, Im Namhyun Kim :)
 
 :information_desk_person: Introduce
 
