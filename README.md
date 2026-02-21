@@ -4,9 +4,6 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMyMeMi-ne&layout=compact)](https://github.com/IMyMeMi-ne/github-readme-stats)
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamhyunK&show_icons=true&theme=dracula) 
 👍 My skill
 
